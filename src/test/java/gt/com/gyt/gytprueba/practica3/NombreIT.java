@@ -30,7 +30,7 @@ public class NombreIT {
     @Test
     public void testFizz() {
         String fizzBuzz = fB.play(3);
-        assertEquals(fizzBuzz, "Fizz");
+        assertEquals(fizzBuzz, "Fizzz");
     }
     
     @Test
